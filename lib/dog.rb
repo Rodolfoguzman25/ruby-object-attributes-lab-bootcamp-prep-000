@@ -1,6 +1,7 @@
 class Dog
 
-def instantiate(name)
+def instantiate(name,breeds)
+  @breeds=breeds
   @name=name
 end
 
