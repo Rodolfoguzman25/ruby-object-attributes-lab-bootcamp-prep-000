@@ -1,7 +1,7 @@
 class Dog
 
 def instantiate(nombre)
-  @name
+  @name=nombre
 end
 
 def name
