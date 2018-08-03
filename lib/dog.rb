@@ -6,7 +6,8 @@ def instantiate(name,breeds)
 end
 
 def name
-  @name  
+  @name
+  @breeds
 end
 
 def name=(@name)
