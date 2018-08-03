@@ -12,3 +12,4 @@ def name=(@name)
 
 end
 
+bobby=dog.new
