@@ -1,10 +1,9 @@
 class Dog
 
-  def instantiate(name,breeds)
+  def type(name)
     @breeds=breeds
-    @name=name
   end
-
+  
   def name
     @name
   end
