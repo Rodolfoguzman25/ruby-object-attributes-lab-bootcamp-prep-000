@@ -1,7 +1,7 @@
 class Dog
 
-  def type(name)
-    @breeds=breeds
+  def type(breed)
+    @breed=breed
   end
   
   def identification(name)
@@ -12,7 +12,7 @@ class Dog
     @name
   end
 
-  def breeds
+  def breed
     @breeds
   end
 
