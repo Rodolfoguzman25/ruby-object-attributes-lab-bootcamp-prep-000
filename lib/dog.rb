@@ -27,13 +27,15 @@ end
 
 class Person
 
-def instantiate (name)
+def instantiate(name)
   @name=name
 end
 
 def name
   @name  
 end
+
+def name=(name)
 
   
   
