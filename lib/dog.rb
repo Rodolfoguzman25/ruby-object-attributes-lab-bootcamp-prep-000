@@ -31,6 +31,8 @@ def instantiate(name)
   @name=name
 end
 
+def profession(job)
+
 def name
   @name  
 end
