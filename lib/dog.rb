@@ -26,8 +26,10 @@ class Dog
 end
 
 class Person
-  
-  
+
+def instantiate (name)
+end
+
   
   
   
