@@ -20,5 +20,3 @@ class Dog
   def breeds=(new_breeds)
     @breeds=new_breeds
 end
-
-bobby=dog.new("chihuahua")
