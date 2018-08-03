@@ -32,7 +32,7 @@ def instantiate(name)
 end
 
 def profession(job)
-
+  @jobs=job
 def name
   @name  
 end
