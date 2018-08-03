@@ -32,8 +32,7 @@ def instantiate (name)
 end
 
 def name
-  
-  
+  @name  
 end
 
   
