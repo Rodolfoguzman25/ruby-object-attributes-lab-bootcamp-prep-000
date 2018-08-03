@@ -4,6 +4,10 @@ class Dog
     @breeds=breeds
   end
   
+  def identification(name)
+    @name=name
+  end
+  
   def name
     @name
   end
