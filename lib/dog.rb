@@ -28,6 +28,11 @@ end
 class Person
 
 def instantiate (name)
+  @name=name
+end
+
+def name
+  
 end
 
   
