@@ -27,29 +27,22 @@ end
 
 class Person
 
-def instantiate(name)
-  @name=name
-end
+  def instantiate(name)
+    @name=name
+  end
 
-def profession(job)
-  @jobs=job
+  def profession(job)
+    @jobs=job
+  end
   
-def name
-  @name  
-end
+  def name
+    @name  
+  end
 
-def name=(new_name)
-  @name=new_name
-end
+  def
 
-end
-
-  
-  
-  
-  
-  
-  
-  
+  def name=(new_name)
+    @name=new_name
+  end
   
 end
