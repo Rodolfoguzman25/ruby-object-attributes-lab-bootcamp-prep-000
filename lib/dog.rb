@@ -5,7 +5,7 @@ def instantiate(nombre)
 end
 
 def name
-  
+  @name  
 end
 
 
